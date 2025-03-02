@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-github-username/package-name.git"
+    "url": "https://github.com/THEMISADAS2007/tvshows-search.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
