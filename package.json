@@ -1,0 +1,24 @@
+{
+  "name": "THEMISADAS2007/tvshows-search",
+  "version": "1.0.0",
+  "description": "A sample npm package published to GitHub Packages",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-github-username/package-name.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.1",
+    "axios": "^1.6.2",
+    "cheerio": "^1.0.0-rc.12"
+  },
+  "devDependencies": {}
+}
