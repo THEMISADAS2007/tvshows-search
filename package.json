@@ -1,5 +1,5 @@
 {
-  "name": "THEMISADAS2007/tvshows-search",
+  "name": "@THEMISADAS2007/tvshows-search",
   "version": "1.0.0",
   "description": "A sample npm package published to GitHub Packages",
   "main": "index.js",
